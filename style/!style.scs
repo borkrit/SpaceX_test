@@ -1,0 +1,6 @@
+$mainBgColor : black;
+
+body{
+    background: $mainBgColor;
+}
+
